@@ -3,7 +3,7 @@ a Lua implementation for x264 video handler on linux.
 
 ## dependency
 need ffmpeg with x264 on linux.
-test on centos7 and you can get a compiled ffmpeg in ffmpeg_x264.7z.
+test on centos7 and you can get a compiled ffmpeg in [ffmpeg_x264.7z](https://github.com/c0de1ife/videoHandler/blob/master/ffmpeg_x264.7z).
 
 ## feature
 >* get info from video.
